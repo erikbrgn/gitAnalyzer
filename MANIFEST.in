@@ -1,0 +1,3 @@
+graft gitextraction/static
+graft gitextraction/templates
+global-exclude *.pyc
