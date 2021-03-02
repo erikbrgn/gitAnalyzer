@@ -9,4 +9,5 @@ Developed and used for a bachelor's thesis in informatics at Lunds University in
 ## Authors
 
 Erik Berggren | [94erbe28@gmail.com](mailto:94erbe28@gmail.com)
+
 Axel Ungewitter | [Axel@ungewitter.se](mailto:Axel@ungewitter.se)
